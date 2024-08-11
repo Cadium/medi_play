@@ -51,6 +51,4 @@
 <li>Open "index.html" file in your browser</li>
 </ul>
 
-<p>NOTE: This project was created on a windows machine</p>
 
-<p>Thanks</p>
